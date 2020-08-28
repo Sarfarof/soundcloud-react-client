@@ -1,2 +1,2 @@
-react client for soundcloud
-webpack config is added
+React client for soundcloud
+Webpack config is added
